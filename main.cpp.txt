@@ -6,7 +6,12 @@ int main()
 	printf("helooo);
 }
 
-void bublesort
+
+void bubblesort
 {
 	//
 }
+
+void quicksort{
+printf
+
